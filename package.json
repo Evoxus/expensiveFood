@@ -1,0 +1,15 @@
+{
+  "name": "expensivefood",
+  "version": "1.0.0",
+  "description": "Food expense tracking app",
+  "main": "app.js",
+  "dependencies": {
+    "tastytracker-demo-pkg": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael H Ploughman",
+  "license": "ISC"
+}
